@@ -1,0 +1,8 @@
+[submodule "algorithms"]
+	path = algorithms
+	url = https://github.com/adriandarian/Algorithms.git
+	branch = "master"
+[submodule "github/skills-introduction-to-github"]
+	path = github/skills-introduction-to-github
+	url = https://github.com/adriandarian/skills-introduction-to-github.git
+	branch = "main"
