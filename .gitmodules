@@ -5,3 +5,12 @@
 [submodule "courses/linkedin-learning"]
 	path = courses/linkedin-learning
 	url = https://github.com/adriandarian/linkedin-learning.git
+[submodule "algorithms/leetcode"]
+	path = algorithms/leetcode
+	url = https://github.com/adriandarian/leetcode.git
+[submodule "algorithms/hackerrank"]
+	path = algorithms/hackerrank
+	url = https://github.com/adriandarian/hackerrank.git
+[submodule "algorithms/binary-search-io"]
+	path = algorithms/binary-search-io
+	url = https://github.com/adriandarian/binary-search-io.git
