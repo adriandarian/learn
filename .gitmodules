@@ -18,3 +18,6 @@
 	path = algorithms/binary-search-io
 	url = https://github.com/adriandarian/binary-search-io.git
 	branch = "master"
+[submodule "school/ucmerced-coursework"]
+	path = school/ucmerced-coursework
+	url = https://github.com/adriandarian/ucmerced-coursework.git
