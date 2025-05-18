@@ -6,3 +6,6 @@
 	path = github/skills-introduction-to-github
 	url = https://github.com/adriandarian/skills-introduction-to-github.git
 	branch = "main"
+[submodule "courses/linkedin-learning"]
+	path = courses/linkedin-learning
+	url = https://github.com/adriandarian/linkedin-learning.git
