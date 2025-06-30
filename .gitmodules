@@ -1,23 +1,57 @@
 [submodule "github/skills-introduction-to-github"]
-	path = github/skills-introduction-to-github
+	path = courses/github/skills-introduction-to-github
 	url = https://github.com/adriandarian/skills-introduction-to-github.git
-	branch = "main"
-[submodule "courses/linkedin-learning"]
-	path = courses/linkedin-learning
-	url = https://github.com/adriandarian/linkedin-learning.git
-	branch = "master"
-[submodule "algorithms/leetcode"]
-	path = algorithms/leetcode
-	url = https://github.com/adriandarian/leetcode.git
-	branch = "master"
-[submodule "algorithms/hackerrank"]
-	path = algorithms/hackerrank
-	url = https://github.com/adriandarian/hackerrank.git
-	branch = "master"
-[submodule "algorithms/binary-search-io"]
-	path = algorithms/binary-search-io
-	url = https://github.com/adriandarian/binary-search-io.git
-	branch = "master"
-[submodule "school/ucmerced-coursework"]
-	path = school/ucmerced-coursework
-	url = https://github.com/adriandarian/ucmerced-coursework.git
+[submodule "nodejs-microservices"]
+	path = courses/nodejs/nodejs-microservices
+	url = https://github.com/adriandarian/nodejs-microservices.git
+[submodule "engr-65"]
+	path = university/engr-65
+	url = https://github.com/adriandarian/engr-65.git
+[submodule "math-32"]
+	path = university/math-32
+	url = https://github.com/adriandarian/math-32.git
+[submodule "cse-21"]
+	path = university/cse-21
+	url = https://github.com/adriandarian/CSE21.git
+[submodule "cse-15"]
+	path = university/cse-15
+	url = https://github.com/adriandarian/CSE15.git
+[submodule "cse-100"]
+	path = university/cse-100
+	url = https://github.com/adriandarian/CSE100.git
+[submodule "cse-170-project"]
+	path = university/cse-170-project
+	url = https://github.com/adriandarian/CSE170-project.git
+[submodule "cse-170"]
+	path = university/cse-170
+	url = https://github.com/adriandarian/CSE170.git
+[submodule "cse-177"]
+	path = university/cse-177
+	url = https://github.com/adriandarian/CSE177.git
+[submodule "cse-165"]
+	path = university/cse-165
+	url = https://github.com/adriandarian/CSE165.git
+[submodule "cse-150"]
+	path = university/cse-150
+	url = https://github.com/adriandarian/CSE150.git
+[submodule "cse-31-project-1"]
+	path = university/cse-31-project-1
+	url = https://github.com/adriandarian/cse31_project1.git
+[submodule "cse-31-project-2"]
+	path = university/cse-31-project-2
+	url = https://github.com/adriandarian/rgrep.git
+[submodule "cse-160"]
+	path = university/cse-160
+	url = https://github.com/adriandarian/cse-160.git
+[submodule "cse-155"]
+	path = university/cse-155
+	url = https://github.com/adriandarian/cse-155.git
+[submodule "cse-162"]
+	path = university/cse-162
+	url = https://github.com/adriandarian/cse-162.git
+[submodule "cse-185"]
+	path = university/cse-185
+	url = https://github.com/adriandarian/cse-185.git
+[submodule "cse-120"]
+	path = university/cse-120
+	url = https://github.com/adriandarian/cse-120.git
