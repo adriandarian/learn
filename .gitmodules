@@ -28,11 +28,11 @@
 [submodule "university/cse-150"]
 	path = university/cse-150
 	url = https://github.com/adriandarian/CSE150.git
-[submodule "university/cse-31-project-1"]
-	path = university/cse-31-project-1
+[submodule "university/cse-31/project-1"]
+	path = university/cse-31/project-1
 	url = https://github.com/adriandarian/cse31_project1.git
-[submodule "university/cse-31-project-2"]
-	path = university/cse-31-project-2
+[submodule "university/cse-31/project-2"]
+	path = university/cse-31/project-2
 	url = https://github.com/adriandarian/rgrep.git
 [submodule "university/cse-160"]
 	path = university/cse-160
