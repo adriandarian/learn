@@ -13,9 +13,6 @@
 [submodule "university/cse-100"]
 	path = university/cse-100
 	url = https://github.com/adriandarian/CSE100.git
-[submodule "university/cse-170-project"]
-	path = university/cse-170-project
-	url = https://github.com/adriandarian/CSE170-project.git
 [submodule "university/cse-170"]
 	path = university/cse-170
 	url = https://github.com/adriandarian/CSE170.git
