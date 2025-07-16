@@ -52,3 +52,9 @@
 [submodule "courses/nodejs/nodejs-microservices"]
 	path = courses/nodejs/nodejs-microservices
 	url = https://github.com/adriandarian/nodejs-microservices.git
+[submodule "university/vector-calc"]
+	path = university/vector-calc
+	url = https://github.com/adriandarian/vectorCalc.git
+[submodule "courses/mongo-university"]
+	path = courses/mongo-university
+	url = https://github.com/adriandarian/mongo-university.git
