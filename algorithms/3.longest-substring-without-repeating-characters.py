@@ -57,8 +57,14 @@
 # @lc code=start
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        # Pythonic sliding window solution
-        char_index = {}
+        """
+        Find the length of the longest substring without repeating characters.
+        
+        Uses sliding window technique with O(n) time complexity and O(min(m, n)) space
+        where m is the charset size and n is the string length.
+        """
+        # Pythonic sliding window solution - O(n) time, O(m) space
+        char_index: dict[str, int] = {}
         max_len = start = 0
         
         for i, char in enumerate(s):
